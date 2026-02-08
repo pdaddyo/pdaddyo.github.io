@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Crucial for mobile view -->
+<title>La Luna Vida | Mobile Massage & Reiki Prestwich</title>
+<!-- Importing Google Fonts for that elegant look -->
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Playfair+Display:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+
+<style>
+  /* --- CSS Variables & Global Styles --- */
+  :root {
+    /* Soft, warm palette based on the reference site */
+    --primary-rose: #bcaaa4; /* Dusty Rose/Terracotta */
+    --bg-cream: #f9f6f2;     /* Main light background */
+    --bg-warm: #efebe4;      /* Slightly darker warm beige for sections */
+    --text-dark: #4a4238;    /* Soft charcoal/brown, not harsh black */
+    --text-light: #ffffff;
+  }
+
+  * {
+    box-sizing: border-box; /* Ensures padding doesn't affect width */
+  }
+
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+    background-color: var(--bg-cream);
+    color: var(--text-dark);
+    line-height: 1.7;
+    font-weight: 300;
+  }
+
+  h1, h2, h3, h4 {
+    font-family: 'Playfair Display', serif;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    color: var(--text-dark);
+  }
+
+  h2 {
+      font-size: 2.2rem;
+      text-align: center;
+      margin-bottom: 40px;
+  }
+
+  /* --- Buttons --- */
+  /* Standard Site Button (Rose colored) */
+  .btn-main {
+    background-color: var(--primary-rose);
+    color: var(--text-light);
+    padding: 16px 32px;
+    text-decoration: none;
+    font-family: 'Playfair Display', serif;
+    font-size: 1.1rem;
+    border-radius: 2px;
+    transition: all 0.3s ease;
+    display: inline-block;
+    border: 2px solid var(--primary-rose);
+    cursor: pointer;
+    font-weight: 500;
+  }
+
+  .btn-main:hover {
+    background-color: transparent;
+    color: var(--primary-rose);
+  }
+
+  /* Specific Button for the Dark Hero Section (White for contrast) */
+  .btn-hero {
+      background-color: #ffffff;
+      color: var(--text-dark);
+      border-color: #ffffff;
+  }
+  .btn-hero:hover {
+      background-color: transparent;
+      color: #ffffff;
+  }
+
+
+  /* --- Header & Navigation --- */
+  header {
+    background-color: var(--bg-cream);
+    padding: 25px 5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #e0dcd5;
+  }
+
+  .logo {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.8rem;
+    color: var(--text-dark);
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo span { 
+      color: var(--primary-rose); 
+      margin-right: 10px;
+      font-size: 1.4rem;
+  }
+
+  nav a {
+    color: var(--text-dark);
+    text-decoration: none;
+    margin-left: 30px;
+    font-size: 0.95rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 400;
+  }
+  
+  .nav-book-btn {
+      background-color: var(--primary-rose);
+      color: white !important;
+      padding: 12px 24px;
+      border-radius: 2px;
+      transition: background-color 0.3s ease;
+  }
+  .nav-book-btn:hover {
+      background-color: #a3938d;
+  }
+
+  /* --- Hero Section --- */
+  .hero {
+    /* UPDATED IMAGE: Back to the deep blue night sky */
+    /* UPDATED OVERLAY: Used a darker indigo overlay (rgba(20, 25, 50, 0.6)) to ensure white text pops */
+    background-image: linear-gradient(rgba(20, 25, 50, 0.6), rgba(20, 25, 50, 0.6)), url('https://images.unsplash.com/photo-1519823551278-64ac92734fb1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2574&q=80');
+    background-size: cover;
+    background-position: center center;
+    min-height: 75vh; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #ffffff; /* Ensure text is pure white */
+    padding: 20px;
+  }
+
+  .hero h1 {
+    font-size: 4.5rem;
+    margin-bottom: 10px;
+    color: #ffffff;
+    text-shadow: 0 2px 10px rgba(0,0,0,0.3);
+  }
+  
+  .hero p.subtitle {
+      font-size: 1.6rem;
+      font-family: 'Playfair Display', serif;
+      font-style: italic;
+      margin-bottom: 40px;
+      color: #f0f0f0;
+  }
+
+  /* --- About Section --- */
+  .about-section {
+    padding: 100px 5%;
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .about-section p.lead {
+      font-size: 1.3rem;
+      color: var(--primary-rose);
+      font-family: 'Playfair Display', serif;
+      font-style: italic;
+  }
+
+  /* --- Logistics/Info Section --- */
+  .logistics-section {
+    background-color: var(--bg-warm);
+    padding: 100px 5%;
+  }
+
+  .logistics-intro-text {
+      text-align: center;
+      max-width: 700px;
+      margin: 0 auto 60px auto;
+      font-size: 1.1rem;
+  }
+
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 2 columns side by side */
+    gap: 40px;
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+
+  .info-box {
+    background: var(--bg-cream);
+    padding: 40px;
+    border-radius: 4px;
+    border: 1px solid #e0dcd5;
+    text-align: center;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.03);
+  }
+
+  .info-box h3 {
+    color: var(--primary-rose);
+    margin-top: 0;
+    font-size: 1.4rem;
+  }
+
+  .highlight-box {
+      grid-column: 1 / -1; /* Span across all columns */
+      background-color: var(--primary-rose);
+      color: var(--text-light);
+      padding: 40px;
+      text-align: center;
+      border-radius: 4px;
+  }
+  .highlight-box strong {
+      color: var(--bg-cream);
+      font-weight: 500;
+  }
+
+  /* --- Footer --- */
+  footer {
+    background-color: #3a332c; /* Deeper tone for footer */
+    color: var(--bg-warm);
+    padding: 80px 5%;
+    text-align: center;
+  }
+  
+  footer h2 { color: var(--bg-warm); }
+  footer a { color: var(--primary-rose); text-decoration: none;}
+
+  /* =========================================
+     MOBILE RESPONSIVE DESIGN (Media Queries)
+  ========================================= */
+  @media (max-width: 768px) {
+    
+    /* Header: Stack logo and nav */
+    header {
+      flex-direction: column;
+      padding: 20px;
+    }
+    
+    nav {
+      margin-top: 25px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 20px;
+      width: 100%;
+    }
+    
+    nav a { margin-left: 0; }
+    .nav-book-btn { width: 100%; text-align: center;}
+
+    /* Hero adjustments */
+    .hero h1 { font-size: 3rem; }
+    .hero p.subtitle { font-size: 1.3rem; }
+    .hero { min-height: 60vh; }
+
+    /* Typography sizing for mobile */
+    h2 { font-size: 2rem; }
+    
+    /* Stack the grid */
+    .grid-container {
+      grid-template-columns: 1fr; /* Single column */
+      gap: 25px;
+    }
+    
+    .about-section, .logistics-section {
+        padding: 60px 5%;
+    }
+    
+    .info-box { padding: 30px 20px; }
+  }
+
+</style>
+</head>
+<body>
+
+  <!-- Header Navigation -->
+  <header>
+    <div class="logo">
+      <span>☾</span> La Luna Vida
+    </div>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#details">Details</a>
+      <!-- Added class for specific styling -->
+      <a href="#book" class="nav-book-btn">Book Appointment</a>
+    </nav>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <h1>La Luna Vida</h1>
+    <p class="subtitle">Mobile Massage and Wellness</p>
+    <!-- Using the specific white hero button class for contrast -->
+    <a href="#book" class="btn-main btn-hero">Book Appointment</a>
+  </section>
+
+  <!-- Introduction Section -->
+  <section class="about-section" id="about">
+    <p class="lead">We bring healing and relaxation to you.</p>
+    <h2>Welcome</h2>
+    <p>La Luna Vida is a mobile massage and reiki service covering Prestwich and the surrounding areas. Receive a massage or reiki session in the comfort of your own home and leave the travelling to us.</p>
+    <p>We look forward to seeing you :)</p>
+  </section>
+
+  <!-- Logistics Section (The "Before booking" copy) -->
+  <section class="logistics-section" id="details">
+    <h2>Before Booking</h2>
+    <p class="logistics-intro-text">Please review the following details to ensure a smooth and relaxing session in your home.</p>
+
+    <div class="grid-container">
+      
+      <!-- Box 1: Space -->
+      <div class="info-box">
+        <h3>Space Requirements</h3>
+        <p>The treatment bed measures <strong>70 × 30 inches</strong>. Please ensure you have sufficient space for the bed and for the therapist to move safely around it.</p>
+      </div>
+
+      <!-- Box 2: Location -->
+      <div class="info-box">
+        <h3>Location & Travel</h3>
+        <p>We are based in Prestwich, North Manchester. A small travel charge may apply depending on location surrounding areas.</p>
+      </div>
+
+      <!-- Box 3: Timing -->
+      <div class="info-box">
+        <h3>Timing & Consultation</h3>
+        <p>Appointment times include an additional <strong>20 minutes</strong> for consultation and setup/pack-down (e.g. a 60-minute treatment requires 80 minutes total). All treatments include a short tailored consultation.</p>
+      </div>
+
+       <!-- Box 4: Groups -->
+      <div class="info-box">
+        <h3>Group Bookings</h3>
+        <p>Planning a group session? Please allow up to 15 minutes between sessions for changeover.</p>
+      </div>
+
+      <!-- Cancellation Policy Highlight -->
+      <div class="highlight-box">
+        <p style="margin: 0; font-size: 1rem;"><strong>Important Policy Note:</strong> The treatment bed must be used for all sessions. If the treatment space is unsuitable upon arrival and causes cancellation, the full treatment fee will be charged. If you would like to discuss alternative treatment locations, please contact us before booking.</p>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Footer / Final CTA -->
+  <footer id="book">
+    <h2>Ready to Relax?</h2>
+    <p style="font-size: 1.2rem; max-width: 600px; margin: 0 auto;">You can book online or get in touch to discuss your healing and relaxation needs.</p>
+    <div style="margin: 50px 0;">
+        <!-- Standard rose button for the footer -->
+        <button class="btn-main">Book Appointment Online</button>
+    </div>
+    <p style="font-size: 0.9rem; opacity: 0.7;">© 2023 La Luna Vida. Based in Prestwich, North Manchester.</p>
+  </footer>
+
+</body>
+</html>
