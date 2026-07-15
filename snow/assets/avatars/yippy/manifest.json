@@ -1,0 +1,7373 @@
+{
+  "generatedAt": "2026-05-17T15:19:49.608Z",
+  "source": "unreal-assets",
+  "assets": [
+    {
+      "id": "accessories:sm_backpacka",
+      "category": "accessories",
+      "url": "assets/avatars/yippy/accessories/SM_BackpackA.glb",
+      "fileSize": 287676,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "body",
+        "bone": "body_socket"
+      }
+    },
+    {
+      "id": "accessories:sm_baga",
+      "category": "accessories",
+      "url": "assets/avatars/yippy/accessories/SM_BagA.glb",
+      "fileSize": 85496,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "body",
+        "bone": "body_socket"
+      }
+    },
+    {
+      "id": "accessories:sm_bone",
+      "category": "accessories",
+      "url": "assets/avatars/yippy/accessories/SM_Bone.glb",
+      "fileSize": 307644,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "rightHand",
+        "bone": "hand_socket_r"
+      }
+    },
+    {
+      "id": "accessories:sm_cap_turbo",
+      "category": "accessories",
+      "url": "assets/avatars/yippy/accessories/SM_Cap_Turbo.glb",
+      "fileSize": 791696,
+      "scenes": 1,
+      "nodes": 3,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "skeletonNodes": [
+        "Cap_turbo_Root",
+        "Cap_turbo2"
+      ],
+      "attachment": {
+        "slot": "head",
+        "bone": "head_socket"
+      }
+    },
+    {
+      "id": "accessories:sm_cleavera",
+      "category": "accessories",
+      "url": "assets/avatars/yippy/accessories/SM_CleaverA.glb",
+      "fileSize": 45540,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "rightHand",
+        "bone": "hand_socket_r"
+      }
+    },
+    {
+      "id": "accessories:sm_collar",
+      "category": "accessories",
+      "url": "assets/avatars/yippy/accessories/SM_Collar.glb",
+      "fileSize": 310960,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "body",
+        "bone": "body_socket"
+      }
+    },
+    {
+      "id": "accessories:sm_crown",
+      "category": "accessories",
+      "url": "assets/avatars/yippy/accessories/SM_Crown.glb",
+      "fileSize": 296060,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "head",
+        "bone": "head_socket"
+      }
+    },
+    {
+      "id": "accessories:sm_fishmacea",
+      "category": "accessories",
+      "url": "assets/avatars/yippy/accessories/SM_FishmaceA.glb",
+      "fileSize": 234852,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "rightHand",
+        "bone": "hand_socket_r"
+      }
+    },
+    {
+      "id": "accessories:sm_glassesa",
+      "category": "accessories",
+      "url": "assets/avatars/yippy/accessories/SM_GlassesA.glb",
+      "fileSize": 41580,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "head",
+        "bone": "head_socket"
+      }
+    },
+    {
+      "id": "accessories:sm_hata",
+      "category": "accessories",
+      "url": "assets/avatars/yippy/accessories/SM_HatA.glb",
+      "fileSize": 313732,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "head",
+        "bone": "head_socket"
+      }
+    },
+    {
+      "id": "accessories:sm_headring",
+      "category": "accessories",
+      "url": "assets/avatars/yippy/accessories/SM_Headring.glb",
+      "fileSize": 153772,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "head",
+        "bone": "head_socket"
+      }
+    },
+    {
+      "id": "accessories:sm_hook",
+      "category": "accessories",
+      "url": "assets/avatars/yippy/accessories/SM_Hook.glb",
+      "fileSize": 766088,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "rightHand",
+        "bone": "hand_socket_r"
+      }
+    },
+    {
+      "id": "accessories:sm_minihata",
+      "category": "accessories",
+      "url": "assets/avatars/yippy/accessories/SM_MinihatA.glb",
+      "fileSize": 274652,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "head",
+        "bone": "head_socket"
+      }
+    },
+    {
+      "id": "accessories:sm_miniscene",
+      "category": "accessories",
+      "url": "assets/avatars/yippy/accessories/SM_Miniscene.glb",
+      "fileSize": 4630316,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "body",
+        "bone": "body_socket"
+      }
+    },
+    {
+      "id": "accessories:sm_monkeymace",
+      "category": "accessories",
+      "url": "assets/avatars/yippy/accessories/SM_Monkeymace.glb",
+      "fileSize": 393908,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "rightHand",
+        "bone": "hand_socket_r"
+      }
+    },
+    {
+      "id": "accessories:sm_mustachea",
+      "category": "accessories",
+      "url": "assets/avatars/yippy/accessories/SM_MustacheA.glb",
+      "fileSize": 188984,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "head",
+        "bone": "head_socket"
+      }
+    },
+    {
+      "id": "accessories:sm_pirate_hat",
+      "category": "accessories",
+      "url": "assets/avatars/yippy/accessories/SM_Pirate_Hat.glb",
+      "fileSize": 279324,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "head",
+        "bone": "head_socket"
+      }
+    },
+    {
+      "id": "accessories:sm_santabaga",
+      "category": "accessories",
+      "url": "assets/avatars/yippy/accessories/SM_SantabagA.glb",
+      "fileSize": 188260,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "body",
+        "bone": "body_socket"
+      }
+    },
+    {
+      "id": "accessories:sm_santahata",
+      "category": "accessories",
+      "url": "assets/avatars/yippy/accessories/SM_SantahatA.glb",
+      "fileSize": 308728,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "head",
+        "bone": "head_socket"
+      }
+    },
+    {
+      "id": "accessories:sm_scarfa",
+      "category": "accessories",
+      "url": "assets/avatars/yippy/accessories/SM_ScarfA.glb",
+      "fileSize": 426684,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "body",
+        "bone": "body_socket"
+      }
+    },
+    {
+      "id": "accessories:sm_swordtoy",
+      "category": "accessories",
+      "url": "assets/avatars/yippy/accessories/SM_SwordToy.glb",
+      "fileSize": 207756,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "rightHand",
+        "bone": "hand_socket_r"
+      }
+    },
+    {
+      "id": "accessories:sm_walking_sticka",
+      "category": "accessories",
+      "url": "assets/avatars/yippy/accessories/SM_Walking_stickA.glb",
+      "fileSize": 35604,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "rightHand",
+        "bone": "hand_socket_r"
+      }
+    },
+    {
+      "id": "accessories:sm_wrapa",
+      "category": "accessories",
+      "url": "assets/avatars/yippy/accessories/SM_WrapA.glb",
+      "fileSize": 562832,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "body",
+        "bone": "body_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_backpacka:m_backpacka",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_BackpackA/M_backpackA.glb",
+      "fileSize": 287676,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "body",
+        "bone": "body_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_backpacka:m_backpacka_2",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_BackpackA/M_backpackA_2.glb",
+      "fileSize": 260372,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "body",
+        "bone": "body_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_backpacka:m_backpacka_3",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_BackpackA/M_backpackA_3.glb",
+      "fileSize": 262932,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "body",
+        "bone": "body_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_backpacka:m_backpacka_4",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_BackpackA/M_backpackA_4.glb",
+      "fileSize": 244776,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "body",
+        "bone": "body_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_baga:m_baga",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_BagA/M_BagA.glb",
+      "fileSize": 85496,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "body",
+        "bone": "body_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_baga:m_baga_2",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_BagA/M_BagA_2.glb",
+      "fileSize": 297740,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "body",
+        "bone": "body_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_baga:m_baga_3",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_BagA/M_BagA_3.glb",
+      "fileSize": 251548,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "body",
+        "bone": "body_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_baga:m_baga_4",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_BagA/M_BagA_4.glb",
+      "fileSize": 357984,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "body",
+        "bone": "body_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_bone:m_bonea",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_Bone/M_BoneA.glb",
+      "fileSize": 307644,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "rightHand",
+        "bone": "hand_socket_r"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_bone:m_boneb",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_Bone/M_BoneB.glb",
+      "fileSize": 306796,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "rightHand",
+        "bone": "hand_socket_r"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_bone:m_bonec",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_Bone/M_BoneC.glb",
+      "fileSize": 303364,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "rightHand",
+        "bone": "hand_socket_r"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_cap_turbo:m_cap_turboa",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_Cap_Turbo/M_Cap_turboA.glb",
+      "fileSize": 791696,
+      "scenes": 1,
+      "nodes": 3,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "skeletonNodes": [
+        "Cap_turbo_Root",
+        "Cap_turbo2"
+      ],
+      "attachment": {
+        "slot": "head",
+        "bone": "head_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_cap_turbo:m_cap_turbob",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_Cap_Turbo/M_Cap_turboB.glb",
+      "fileSize": 847244,
+      "scenes": 1,
+      "nodes": 3,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "skeletonNodes": [
+        "Cap_turbo_Root",
+        "Cap_turbo2"
+      ],
+      "attachment": {
+        "slot": "head",
+        "bone": "head_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_cap_turbo:m_cap_turboc",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_Cap_Turbo/M_Cap_turboC.glb",
+      "fileSize": 498964,
+      "scenes": 1,
+      "nodes": 3,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "skeletonNodes": [
+        "Cap_turbo_Root",
+        "Cap_turbo2"
+      ],
+      "attachment": {
+        "slot": "head",
+        "bone": "head_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_cleavera:m_cleavera",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_CleaverA/M_CleaverA.glb",
+      "fileSize": 45540,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "rightHand",
+        "bone": "hand_socket_r"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_collar:m_collara",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_Collar/M_CollarA.glb",
+      "fileSize": 310960,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "body",
+        "bone": "body_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_collar:m_collarb",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_Collar/M_CollarB.glb",
+      "fileSize": 448868,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "body",
+        "bone": "body_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_collar:m_collarc",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_Collar/M_CollarC.glb",
+      "fileSize": 587676,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "body",
+        "bone": "body_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_crown:m_crowna",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_Crown/M_CrownA.glb",
+      "fileSize": 296060,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "head",
+        "bone": "head_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_crown:m_crownb",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_Crown/M_CrownB.glb",
+      "fileSize": 255832,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "head",
+        "bone": "head_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_crown:m_crownc",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_Crown/M_CrownC.glb",
+      "fileSize": 228400,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "head",
+        "bone": "head_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_fishmacea:m_fishmacea",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_FishmaceA/M_FishmaceA.glb",
+      "fileSize": 234852,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "rightHand",
+        "bone": "hand_socket_r"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_fishmacea:m_fishmacea_2",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_FishmaceA/M_FishmaceA_2.glb",
+      "fileSize": 159808,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "rightHand",
+        "bone": "hand_socket_r"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_fishmacea:m_fishmacea_3",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_FishmaceA/M_FishmaceA_3.glb",
+      "fileSize": 263596,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "rightHand",
+        "bone": "hand_socket_r"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_fishmacea:m_fishmacea_4",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_FishmaceA/M_FishmaceA_4.glb",
+      "fileSize": 217584,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "rightHand",
+        "bone": "hand_socket_r"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_glassesa:m_glassesa",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_GlassesA/M_GlassesA.glb",
+      "fileSize": 41580,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "head",
+        "bone": "head_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_glassesa:m_glassesa_2",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_GlassesA/M_GlassesA_2.glb",
+      "fileSize": 28484,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "head",
+        "bone": "head_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_glassesa:m_glassesa_3",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_GlassesA/M_GlassesA_3.glb",
+      "fileSize": 24964,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "head",
+        "bone": "head_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_glassesa:m_glassesa_4",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_GlassesA/M_GlassesA_4.glb",
+      "fileSize": 48560,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "head",
+        "bone": "head_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_hata:m_hata",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_HatA/M_HatA.glb",
+      "fileSize": 313732,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "head",
+        "bone": "head_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_headring:m_headringa",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_Headring/M_HeadringA.glb",
+      "fileSize": 153772,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "head",
+        "bone": "head_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_headring:m_headringb",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_Headring/M_HeadringB.glb",
+      "fileSize": 112720,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "head",
+        "bone": "head_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_headring:m_headringc",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_Headring/M_HeadringC.glb",
+      "fileSize": 97780,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "head",
+        "bone": "head_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_hook:m_hooka",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_Hook/M_HookA.glb",
+      "fileSize": 766088,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "rightHand",
+        "bone": "hand_socket_r"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_hook:m_hookb",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_Hook/M_HookB.glb",
+      "fileSize": 832020,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "rightHand",
+        "bone": "hand_socket_r"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_hook:m_hookc",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_Hook/M_HookC.glb",
+      "fileSize": 550880,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "rightHand",
+        "bone": "hand_socket_r"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_minihata:m_minihata",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_MinihatA/M_MinihatA.glb",
+      "fileSize": 274652,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "head",
+        "bone": "head_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_minihata:m_minihata_2",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_MinihatA/M_MinihatA_2.glb",
+      "fileSize": 380392,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "head",
+        "bone": "head_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_minihata:m_minihata_3",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_MinihatA/M_MinihatA_3.glb",
+      "fileSize": 108852,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "head",
+        "bone": "head_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_minihata:m_minihata_4",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_MinihatA/M_MinihatA_4.glb",
+      "fileSize": 309440,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "head",
+        "bone": "head_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_miniscene:m_miniscene",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_Miniscene/M_Miniscene.glb",
+      "fileSize": 4630316,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "body",
+        "bone": "body_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_monkeymace:m_monkeymacea",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_Monkeymace/M_MonkeymaceA.glb",
+      "fileSize": 393908,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "rightHand",
+        "bone": "hand_socket_r"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_monkeymace:m_monkeymaceb",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_Monkeymace/M_MonkeymaceB.glb",
+      "fileSize": 469972,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "rightHand",
+        "bone": "hand_socket_r"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_monkeymace:m_monkeymacec",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_Monkeymace/M_MonkeymaceC.glb",
+      "fileSize": 398752,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "rightHand",
+        "bone": "hand_socket_r"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_mustachea:m_mustachea",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_MustacheA/M_MustacheA.glb",
+      "fileSize": 188984,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "head",
+        "bone": "head_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_mustachea:m_mustachea_2",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_MustacheA/M_MustacheA_2.glb",
+      "fileSize": 98300,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "head",
+        "bone": "head_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_pirate_hat:m_pirate_hata",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_Pirate_Hat/M_Pirate_HatA.glb",
+      "fileSize": 279324,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "head",
+        "bone": "head_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_pirate_hat:m_pirate_hatb",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_Pirate_Hat/M_Pirate_HatB.glb",
+      "fileSize": 244188,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "head",
+        "bone": "head_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_pirate_hat:m_pirate_hatc",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_Pirate_Hat/M_Pirate_HatC.glb",
+      "fileSize": 273784,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "head",
+        "bone": "head_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_santabaga:m_santabaga",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_SantabagA/M_SantabagA.glb",
+      "fileSize": 188260,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "body",
+        "bone": "body_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_santabaga:m_santabaga_2",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_SantabagA/M_SantabagA_2.glb",
+      "fileSize": 177516,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "body",
+        "bone": "body_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_santahata:m_santahata",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_SantahatA/M_SantahatA.glb",
+      "fileSize": 308728,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "head",
+        "bone": "head_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_santahata:m_santahata_2",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_SantahatA/M_SantahatA_2.glb",
+      "fileSize": 315400,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "head",
+        "bone": "head_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_scarfa:m_scarfa",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_ScarfA/M_ScarfA.glb",
+      "fileSize": 426684,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "body",
+        "bone": "body_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_scarfa:m_scarfa_2",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_ScarfA/M_ScarfA_2.glb",
+      "fileSize": 601244,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "body",
+        "bone": "body_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_scarfa:m_scarfa_3",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_ScarfA/M_ScarfA_3.glb",
+      "fileSize": 87064,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "body",
+        "bone": "body_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_swordtoy:m_swordtoya",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_SwordToy/M_SwordToyA.glb",
+      "fileSize": 207756,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "rightHand",
+        "bone": "hand_socket_r"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_swordtoy:m_swordtoyb",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_SwordToy/M_SwordToyB.glb",
+      "fileSize": 186784,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "rightHand",
+        "bone": "hand_socket_r"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_swordtoy:m_swordtoyc",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_SwordToy/M_SwordToyC.glb",
+      "fileSize": 124552,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "rightHand",
+        "bone": "hand_socket_r"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_walking_sticka:m_walking_sticka",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_Walking_stickA/M_Walking_stickA.glb",
+      "fileSize": 35604,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "rightHand",
+        "bone": "hand_socket_r"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_walking_sticka:m_walking_sticka_2",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_Walking_stickA/M_Walking_stickA_2.glb",
+      "fileSize": 47956,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "rightHand",
+        "bone": "hand_socket_r"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_walking_sticka:m_walking_sticka_3",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_Walking_stickA/M_Walking_stickA_3.glb",
+      "fileSize": 47352,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "rightHand",
+        "bone": "hand_socket_r"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_walking_sticka:m_walking_sticka_4",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_Walking_stickA/M_Walking_stickA_4.glb",
+      "fileSize": 56552,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "rightHand",
+        "bone": "hand_socket_r"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_wrapa:m_wrapa",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_WrapA/M_WrapA.glb",
+      "fileSize": 562832,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "body",
+        "bone": "body_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_wrapa:m_wrapb",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_WrapA/M_WrapB.glb",
+      "fileSize": 683748,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "body",
+        "bone": "body_socket"
+      }
+    },
+    {
+      "id": "accessory-variants:sm_wrapa:m_wrapc",
+      "category": "accessory-variants",
+      "url": "assets/avatars/yippy/accessory-variants/SM_WrapA/M_WrapC.glb",
+      "fileSize": 447940,
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "skins": 0,
+      "materials": 1,
+      "textures": 1,
+      "animations": [],
+      "attachment": {
+        "slot": "body",
+        "bone": "body_socket"
+      }
+    },
+    {
+      "id": "animations:anim_alert",
+      "category": "animations",
+      "url": "assets/avatars/yippy/animations/Anim_Alert.glb",
+      "fileSize": 912908,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [
+        "Anim_Alert_0"
+      ],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "animations:anim_atk1",
+      "category": "animations",
+      "url": "assets/avatars/yippy/animations/Anim_ATK1.glb",
+      "fileSize": 905848,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [
+        "Anim_ATK1_0"
+      ],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "animations:anim_atk2",
+      "category": "animations",
+      "url": "assets/avatars/yippy/animations/Anim_ATK2.glb",
+      "fileSize": 905848,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [
+        "Anim_ATK2_0"
+      ],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "animations:anim_atk3",
+      "category": "animations",
+      "url": "assets/avatars/yippy/animations/Anim_ATK3.glb",
+      "fileSize": 914664,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [
+        "Anim_ATK3_0"
+      ],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "animations:anim_atk4",
+      "category": "animations",
+      "url": "assets/avatars/yippy/animations/Anim_ATK4.glb",
+      "fileSize": 895252,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [
+        "Anim_ATK4_0"
+      ],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "animations:anim_block",
+      "category": "animations",
+      "url": "assets/avatars/yippy/animations/Anim_Block.glb",
+      "fileSize": 905848,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [
+        "Anim_Block_0"
+      ],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "animations:anim_damage",
+      "category": "animations",
+      "url": "assets/avatars/yippy/animations/Anim_Damage.glb",
+      "fileSize": 905848,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [
+        "Anim_Damage_0"
+      ],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "animations:anim_dash",
+      "category": "animations",
+      "url": "assets/avatars/yippy/animations/Anim_Dash.glb",
+      "fileSize": 914664,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [
+        "Anim_Dash_0"
+      ],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "animations:anim_die1",
+      "category": "animations",
+      "url": "assets/avatars/yippy/animations/Anim_Die1.glb",
+      "fileSize": 958788,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [
+        "Anim_Die1_0"
+      ],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "animations:anim_die2",
+      "category": "animations",
+      "url": "assets/avatars/yippy/animations/Anim_Die2.glb",
+      "fileSize": 923496,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [
+        "Anim_Die2_0"
+      ],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "animations:anim_idle",
+      "category": "animations",
+      "url": "assets/avatars/yippy/animations/Anim_Idle.glb",
+      "fileSize": 1064972,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [
+        "Anim_Idle_0"
+      ],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "animations:anim_jump",
+      "category": "animations",
+      "url": "assets/avatars/yippy/animations/Anim_Jump.glb",
+      "fileSize": 923496,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [
+        "Anim_Jump_0"
+      ],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "animations:anim_move",
+      "category": "animations",
+      "url": "assets/avatars/yippy/animations/Anim_Move.glb",
+      "fileSize": 905848,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [
+        "Anim_Move_0"
+      ],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "animations:anim_move_l",
+      "category": "animations",
+      "url": "assets/avatars/yippy/animations/Anim_Move_L.glb",
+      "fileSize": 905848,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [
+        "Anim_Move_L_0"
+      ],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "animations:anim_move_r",
+      "category": "animations",
+      "url": "assets/avatars/yippy/animations/Anim_Move_R.glb",
+      "fileSize": 905848,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [
+        "Anim_Move_R_0"
+      ],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "animations:anim_run",
+      "category": "animations",
+      "url": "assets/avatars/yippy/animations/Anim_Run.glb",
+      "fileSize": 895248,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [
+        "Anim_Run_0"
+      ],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "animations:anim_run_l",
+      "category": "animations",
+      "url": "assets/avatars/yippy/animations/Anim_Run_L.glb",
+      "fileSize": 895252,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [
+        "Anim_Run_L_0"
+      ],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "animations:anim_run_r",
+      "category": "animations",
+      "url": "assets/avatars/yippy/animations/Anim_Run_R.glb",
+      "fileSize": 895252,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [
+        "Anim_Run_R_0"
+      ],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "animations:anim_sit",
+      "category": "animations",
+      "url": "assets/avatars/yippy/animations/Anim_Sit.glb",
+      "fileSize": 900548,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [
+        "Anim_Sit_0"
+      ],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "animations:anim_victory",
+      "category": "animations",
+      "url": "assets/avatars/yippy/animations/Anim_Victory.glb",
+      "fileSize": 905852,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [
+        "Anim_Victory_0"
+      ],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "animations:anim_walk",
+      "category": "animations",
+      "url": "assets/avatars/yippy/animations/Anim_Walk.glb",
+      "fileSize": 914664,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [
+        "Anim_Walk_0"
+      ],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "animations:anim_walk_l",
+      "category": "animations",
+      "url": "assets/avatars/yippy/animations/Anim_Walk_L.glb",
+      "fileSize": 912908,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [
+        "Anim_Walk_L_0"
+      ],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "animations:anim_walk_r",
+      "category": "animations",
+      "url": "assets/avatars/yippy/animations/Anim_Walk_R.glb",
+      "fileSize": 912908,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [
+        "Anim_Walk_R_0"
+      ],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "animations:cap_turbo_anim",
+      "category": "animations",
+      "url": "assets/avatars/yippy/animations/Cap_Turbo_Anim.glb",
+      "fileSize": 793864,
+      "scenes": 1,
+      "nodes": 3,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 1,
+      "textures": 1,
+      "animations": [
+        "Cap_Turbo_Anim_0"
+      ],
+      "skeletonNodes": [
+        "Cap_turbo_Root",
+        "Cap_turbo2"
+      ]
+    },
+    {
+      "id": "animations:coconut_tree_anim",
+      "category": "animations",
+      "url": "assets/avatars/yippy/animations/Coconut_Tree_Anim.glb",
+      "fileSize": 3910184,
+      "scenes": 1,
+      "nodes": 14,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 1,
+      "textures": 1,
+      "animations": [
+        "Coconut_Tree_Anim_0"
+      ],
+      "skeletonNodes": [
+        "Coconut_Tree_Root",
+        "TreeA_Spine1",
+        "TreeA_Spine2",
+        "TreeA_Spine3",
+        "leaf1",
+        "leaf2",
+        "leaf3",
+        "leaf4",
+        "leaf5",
+        "leaf6",
+        "leaf7",
+        "leaf8",
+        "Coconut_root"
+      ]
+    },
+    {
+      "id": "animations:crab_anim",
+      "category": "animations",
+      "url": "assets/avatars/yippy/animations/Crab_Anim.glb",
+      "fileSize": 3810012,
+      "scenes": 1,
+      "nodes": 7,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 1,
+      "textures": 1,
+      "animations": [
+        "Crab_Anim_0"
+      ],
+      "skeletonNodes": [
+        "Crab_Root",
+        "Crab1",
+        "CrabR",
+        "CrabR2",
+        "CrabL",
+        "CrabL2"
+      ]
+    },
+    {
+      "id": "animations:sand_castle_anim",
+      "category": "animations",
+      "url": "assets/avatars/yippy/animations/Sand_Castle_Anim.glb",
+      "fileSize": 3819704,
+      "scenes": 1,
+      "nodes": 4,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 1,
+      "textures": 1,
+      "animations": [
+        "Sand_Castle_Anim_0"
+      ],
+      "skeletonNodes": [
+        "Root_Castle",
+        "FlagB",
+        "FlagA"
+      ]
+    },
+    {
+      "id": "animations:scallopa_anim",
+      "category": "animations",
+      "url": "assets/avatars/yippy/animations/ScallopA_Anim.glb",
+      "fileSize": 3790116,
+      "scenes": 1,
+      "nodes": 3,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 1,
+      "textures": 1,
+      "animations": [
+        "ScallopA_Anim_0"
+      ],
+      "skeletonNodes": [
+        "Scallop_Root",
+        "Scallop_join"
+      ]
+    },
+    {
+      "id": "character-variants:bear:body:m_bear_0",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/body/M_Bear_0.glb",
+      "fileSize": 914380,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:body:m_bear_1",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/body/M_Bear_1.glb",
+      "fileSize": 3651748,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:body:m_bear_10",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/body/M_Bear_10.glb",
+      "fileSize": 3082024,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:body:m_bear_11",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/body/M_Bear_11.glb",
+      "fileSize": 3575100,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:body:m_bear_12",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/body/M_Bear_12.glb",
+      "fileSize": 3775868,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:body:m_bear_13",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/body/M_Bear_13.glb",
+      "fileSize": 3419100,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:body:m_bear_14",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/body/M_Bear_14.glb",
+      "fileSize": 3494820,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:body:m_bear_2",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/body/M_Bear_2.glb",
+      "fileSize": 3545984,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:body:m_bear_3",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/body/M_Bear_3.glb",
+      "fileSize": 2619280,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:body:m_bear_4",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/body/M_Bear_4.glb",
+      "fileSize": 4105968,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:body:m_bear_5",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/body/M_Bear_5.glb",
+      "fileSize": 3118752,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:body:m_bear_6",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/body/M_Bear_6.glb",
+      "fileSize": 2774936,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:body:m_bear_7",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/body/M_Bear_7.glb",
+      "fileSize": 1363332,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:body:m_bear_8",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/body/M_Bear_8.glb",
+      "fileSize": 3573452,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:body:m_bear_9",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/body/M_Bear_9.glb",
+      "fileSize": 2560236,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:face:m_face_01",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/face/M_Face_01.glb",
+      "fileSize": 910448,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:face:m_face_1",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/face/M_Face_1.glb",
+      "fileSize": 914380,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:face:m_face_10",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/face/M_Face_10.glb",
+      "fileSize": 907648,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:face:m_face_11",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/face/M_Face_11.glb",
+      "fileSize": 908500,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:face:m_face_12",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/face/M_Face_12.glb",
+      "fileSize": 907724,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:face:m_face_13",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/face/M_Face_13.glb",
+      "fileSize": 912792,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:face:m_face_14",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/face/M_Face_14.glb",
+      "fileSize": 908520,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:face:m_face_15",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/face/M_Face_15.glb",
+      "fileSize": 910068,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:face:m_face_16",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/face/M_Face_16.glb",
+      "fileSize": 906268,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:face:m_face_17",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/face/M_Face_17.glb",
+      "fileSize": 910156,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:face:m_face_18",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/face/M_Face_18.glb",
+      "fileSize": 912192,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:face:m_face_19",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/face/M_Face_19.glb",
+      "fileSize": 941144,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:face:m_face_2",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/face/M_Face_2.glb",
+      "fileSize": 913256,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:face:m_face_20",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/face/M_Face_20.glb",
+      "fileSize": 935196,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:face:m_face_21",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/face/M_Face_21.glb",
+      "fileSize": 908216,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:face:m_face_22",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/face/M_Face_22.glb",
+      "fileSize": 899516,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:face:m_face_23",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/face/M_Face_23.glb",
+      "fileSize": 914572,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:face:m_face_24",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/face/M_Face_24.glb",
+      "fileSize": 904392,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:face:m_face_25",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/face/M_Face_25.glb",
+      "fileSize": 909828,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:face:m_face_26",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/face/M_Face_26.glb",
+      "fileSize": 912928,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:face:m_face_27",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/face/M_Face_27.glb",
+      "fileSize": 906676,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:face:m_face_28",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/face/M_Face_28.glb",
+      "fileSize": 1017212,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:face:m_face_28b",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/face/M_Face_28b.glb",
+      "fileSize": 950748,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:face:m_face_3",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/face/M_Face_3.glb",
+      "fileSize": 908744,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:face:m_face_4",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/face/M_Face_4.glb",
+      "fileSize": 915848,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:face:m_face_5",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/face/M_Face_5.glb",
+      "fileSize": 921272,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:face:m_face_6",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/face/M_Face_6.glb",
+      "fileSize": 914244,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:face:m_face_7",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/face/M_Face_7.glb",
+      "fileSize": 907536,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:face:m_face_8",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/face/M_Face_8.glb",
+      "fileSize": 913580,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bear:face:m_face_9",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bear/face/M_Face_9.glb",
+      "fileSize": 916332,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:body:m_bunny_0",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/body/M_Bunny_0.glb",
+      "fileSize": 1118780,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:body:m_bunny_1",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/body/M_Bunny_1.glb",
+      "fileSize": 3452284,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:body:m_bunny_10",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/body/M_Bunny_10.glb",
+      "fileSize": 2411936,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:body:m_bunny_11",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/body/M_Bunny_11.glb",
+      "fileSize": 3394436,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:body:m_bunny_12",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/body/M_Bunny_12.glb",
+      "fileSize": 2099660,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:body:m_bunny_13",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/body/M_Bunny_13.glb",
+      "fileSize": 4028860,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:body:m_bunny_14",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/body/M_Bunny_14.glb",
+      "fileSize": 3513628,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:body:m_bunny_2",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/body/M_Bunny_2.glb",
+      "fileSize": 3139888,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:body:m_bunny_3",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/body/M_Bunny_3.glb",
+      "fileSize": 3574340,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:body:m_bunny_4",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/body/M_Bunny_4.glb",
+      "fileSize": 1226712,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:body:m_bunny_5",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/body/M_Bunny_5.glb",
+      "fileSize": 2741512,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:body:m_bunny_6",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/body/M_Bunny_6.glb",
+      "fileSize": 1607540,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:body:m_bunny_7",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/body/M_Bunny_7.glb",
+      "fileSize": 3399708,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:body:m_bunny_8",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/body/M_Bunny_8.glb",
+      "fileSize": 2406896,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:body:m_bunny_9",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/body/M_Bunny_9.glb",
+      "fileSize": 3461804,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:face:m_face_01",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/face/M_Face_01.glb",
+      "fileSize": 1114852,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:face:m_face_1",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/face/M_Face_1.glb",
+      "fileSize": 1118780,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:face:m_face_10",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/face/M_Face_10.glb",
+      "fileSize": 1112052,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:face:m_face_11",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/face/M_Face_11.glb",
+      "fileSize": 1112904,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:face:m_face_12",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/face/M_Face_12.glb",
+      "fileSize": 1112128,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:face:m_face_13",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/face/M_Face_13.glb",
+      "fileSize": 1117196,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:face:m_face_14",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/face/M_Face_14.glb",
+      "fileSize": 1112924,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:face:m_face_15",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/face/M_Face_15.glb",
+      "fileSize": 1114472,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:face:m_face_16",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/face/M_Face_16.glb",
+      "fileSize": 1110672,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:face:m_face_17",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/face/M_Face_17.glb",
+      "fileSize": 1114560,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:face:m_face_18",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/face/M_Face_18.glb",
+      "fileSize": 1116596,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:face:m_face_19",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/face/M_Face_19.glb",
+      "fileSize": 1145548,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:face:m_face_2",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/face/M_Face_2.glb",
+      "fileSize": 1117656,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:face:m_face_20",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/face/M_Face_20.glb",
+      "fileSize": 1139600,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:face:m_face_21",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/face/M_Face_21.glb",
+      "fileSize": 1112620,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:face:m_face_22",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/face/M_Face_22.glb",
+      "fileSize": 1103920,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:face:m_face_23",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/face/M_Face_23.glb",
+      "fileSize": 1118976,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:face:m_face_24",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/face/M_Face_24.glb",
+      "fileSize": 1108796,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:face:m_face_25",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/face/M_Face_25.glb",
+      "fileSize": 1114232,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:face:m_face_26",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/face/M_Face_26.glb",
+      "fileSize": 1117332,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:face:m_face_27",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/face/M_Face_27.glb",
+      "fileSize": 1111080,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:face:m_face_28",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/face/M_Face_28.glb",
+      "fileSize": 1221612,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:face:m_face_28b",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/face/M_Face_28b.glb",
+      "fileSize": 1155152,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:face:m_face_3",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/face/M_Face_3.glb",
+      "fileSize": 1113144,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:face:m_face_4",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/face/M_Face_4.glb",
+      "fileSize": 1120248,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:face:m_face_5",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/face/M_Face_5.glb",
+      "fileSize": 1125672,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:face:m_face_6",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/face/M_Face_6.glb",
+      "fileSize": 1118644,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:face:m_face_7",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/face/M_Face_7.glb",
+      "fileSize": 1111936,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:face:m_face_8",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/face/M_Face_8.glb",
+      "fileSize": 1117980,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:bunny:face:m_face_9",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/bunny/face/M_Face_9.glb",
+      "fileSize": 1120732,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:body:m_cat_0",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/body/M_Cat_0.glb",
+      "fileSize": 1033312,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:body:m_cat_1",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/body/M_Cat_1.glb",
+      "fileSize": 3667996,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:body:m_cat_10",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/body/M_Cat_10.glb",
+      "fileSize": 4127904,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:body:m_cat_11",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/body/M_Cat_11.glb",
+      "fileSize": 2302736,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:body:m_cat_12",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/body/M_Cat_12.glb",
+      "fileSize": 2438776,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:body:m_cat_13",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/body/M_Cat_13.glb",
+      "fileSize": 920748,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:body:m_cat_14",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/body/M_Cat_14.glb",
+      "fileSize": 3511956,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:body:m_cat_2",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/body/M_Cat_2.glb",
+      "fileSize": 3126624,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:body:m_cat_3",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/body/M_Cat_3.glb",
+      "fileSize": 820624,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:body:m_cat_4",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/body/M_Cat_4.glb",
+      "fileSize": 3159928,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:body:m_cat_5",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/body/M_Cat_5.glb",
+      "fileSize": 3298560,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:body:m_cat_6",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/body/M_Cat_6.glb",
+      "fileSize": 2376088,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:body:m_cat_7",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/body/M_Cat_7.glb",
+      "fileSize": 3055472,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:body:m_cat_8",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/body/M_Cat_8.glb",
+      "fileSize": 3496124,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:body:m_cat_9",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/body/M_Cat_9.glb",
+      "fileSize": 4393008,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:face:m_face_01",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/face/M_Face_01.glb",
+      "fileSize": 1029384,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:face:m_face_1",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/face/M_Face_1.glb",
+      "fileSize": 1033312,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:face:m_face_10",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/face/M_Face_10.glb",
+      "fileSize": 1026584,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:face:m_face_11",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/face/M_Face_11.glb",
+      "fileSize": 1027436,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:face:m_face_12",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/face/M_Face_12.glb",
+      "fileSize": 1026660,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:face:m_face_13",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/face/M_Face_13.glb",
+      "fileSize": 1031728,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:face:m_face_14",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/face/M_Face_14.glb",
+      "fileSize": 1027456,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:face:m_face_15",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/face/M_Face_15.glb",
+      "fileSize": 1029004,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:face:m_face_16",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/face/M_Face_16.glb",
+      "fileSize": 1025204,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:face:m_face_17",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/face/M_Face_17.glb",
+      "fileSize": 1029092,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:face:m_face_18",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/face/M_Face_18.glb",
+      "fileSize": 1031128,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:face:m_face_19",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/face/M_Face_19.glb",
+      "fileSize": 1060080,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:face:m_face_2",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/face/M_Face_2.glb",
+      "fileSize": 1032188,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:face:m_face_20",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/face/M_Face_20.glb",
+      "fileSize": 1054132,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:face:m_face_21",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/face/M_Face_21.glb",
+      "fileSize": 1027152,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:face:m_face_22",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/face/M_Face_22.glb",
+      "fileSize": 1018452,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:face:m_face_23",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/face/M_Face_23.glb",
+      "fileSize": 1033508,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:face:m_face_24",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/face/M_Face_24.glb",
+      "fileSize": 1023328,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:face:m_face_25",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/face/M_Face_25.glb",
+      "fileSize": 1028764,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:face:m_face_26",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/face/M_Face_26.glb",
+      "fileSize": 1031864,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:face:m_face_27",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/face/M_Face_27.glb",
+      "fileSize": 1025612,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:face:m_face_28",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/face/M_Face_28.glb",
+      "fileSize": 1136144,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:face:m_face_28b",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/face/M_Face_28b.glb",
+      "fileSize": 1069684,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:face:m_face_3",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/face/M_Face_3.glb",
+      "fileSize": 1027676,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:face:m_face_4",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/face/M_Face_4.glb",
+      "fileSize": 1034780,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:face:m_face_5",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/face/M_Face_5.glb",
+      "fileSize": 1040204,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:face:m_face_6",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/face/M_Face_6.glb",
+      "fileSize": 1033176,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:face:m_face_7",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/face/M_Face_7.glb",
+      "fileSize": 1026468,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:face:m_face_8",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/face/M_Face_8.glb",
+      "fileSize": 1032512,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:cat:face:m_face_9",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/cat/face/M_Face_9.glb",
+      "fileSize": 1035264,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:body:m_dog_00",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/body/M_Dog_00.glb",
+      "fileSize": 860244,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:body:m_dog_1",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/body/M_Dog_1.glb",
+      "fileSize": 3211224,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:body:m_dog_10",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/body/M_Dog_10.glb",
+      "fileSize": 1460988,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:body:m_dog_11",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/body/M_Dog_11.glb",
+      "fileSize": 3442024,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:body:m_dog_12",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/body/M_Dog_12.glb",
+      "fileSize": 3414576,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:body:m_dog_13",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/body/M_Dog_13.glb",
+      "fileSize": 3340016,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:body:m_dog_14",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/body/M_Dog_14.glb",
+      "fileSize": 3556432,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:body:m_dog_2",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/body/M_Dog_2.glb",
+      "fileSize": 3228900,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:body:m_dog_3",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/body/M_Dog_3.glb",
+      "fileSize": 3597736,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:body:m_dog_4",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/body/M_Dog_4.glb",
+      "fileSize": 2440308,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:body:m_dog_5",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/body/M_Dog_5.glb",
+      "fileSize": 2349252,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:body:m_dog_6",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/body/M_Dog_6.glb",
+      "fileSize": 2936292,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:body:m_dog_7",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/body/M_Dog_7.glb",
+      "fileSize": 3629924,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:body:m_dog_8",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/body/M_Dog_8.glb",
+      "fileSize": 2942252,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:body:m_dog_9",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/body/M_Dog_9.glb",
+      "fileSize": 3642768,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:face:m_face_01",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/face/M_Face_01.glb",
+      "fileSize": 860244,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:face:m_face_1",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/face/M_Face_1.glb",
+      "fileSize": 864176,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:face:m_face_10",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/face/M_Face_10.glb",
+      "fileSize": 857444,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:face:m_face_11",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/face/M_Face_11.glb",
+      "fileSize": 858296,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:face:m_face_12",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/face/M_Face_12.glb",
+      "fileSize": 857520,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:face:m_face_13",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/face/M_Face_13.glb",
+      "fileSize": 862588,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:face:m_face_14",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/face/M_Face_14.glb",
+      "fileSize": 858316,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:face:m_face_15",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/face/M_Face_15.glb",
+      "fileSize": 859864,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:face:m_face_16",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/face/M_Face_16.glb",
+      "fileSize": 856064,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:face:m_face_17",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/face/M_Face_17.glb",
+      "fileSize": 859952,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:face:m_face_18",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/face/M_Face_18.glb",
+      "fileSize": 861988,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:face:m_face_19",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/face/M_Face_19.glb",
+      "fileSize": 890940,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:face:m_face_2",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/face/M_Face_2.glb",
+      "fileSize": 863052,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:face:m_face_20",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/face/M_Face_20.glb",
+      "fileSize": 884992,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:face:m_face_21",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/face/M_Face_21.glb",
+      "fileSize": 858012,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:face:m_face_22",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/face/M_Face_22.glb",
+      "fileSize": 849312,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:face:m_face_23",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/face/M_Face_23.glb",
+      "fileSize": 864368,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:face:m_face_24",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/face/M_Face_24.glb",
+      "fileSize": 854188,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:face:m_face_25",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/face/M_Face_25.glb",
+      "fileSize": 859624,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:face:m_face_26",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/face/M_Face_26.glb",
+      "fileSize": 862724,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:face:m_face_27",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/face/M_Face_27.glb",
+      "fileSize": 856472,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:face:m_face_28",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/face/M_Face_28.glb",
+      "fileSize": 967004,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:face:m_face_28b",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/face/M_Face_28b.glb",
+      "fileSize": 900544,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:face:m_face_3",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/face/M_Face_3.glb",
+      "fileSize": 858540,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:face:m_face_4",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/face/M_Face_4.glb",
+      "fileSize": 865644,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:face:m_face_5",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/face/M_Face_5.glb",
+      "fileSize": 871068,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:face:m_face_6",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/face/M_Face_6.glb",
+      "fileSize": 864040,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:face:m_face_7",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/face/M_Face_7.glb",
+      "fileSize": 857332,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:face:m_face_8",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/face/M_Face_8.glb",
+      "fileSize": 863376,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:dog:face:m_face_9",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/dog/face/M_Face_9.glb",
+      "fileSize": 866128,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:body:m_frog_00",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/body/M_Frog_00.glb",
+      "fileSize": 1024656,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:body:m_frog_1",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/body/M_Frog_1.glb",
+      "fileSize": 4493928,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:body:m_frog_10",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/body/M_Frog_10.glb",
+      "fileSize": 4532984,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:body:m_frog_11",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/body/M_Frog_11.glb",
+      "fileSize": 4888452,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:body:m_frog_12",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/body/M_Frog_12.glb",
+      "fileSize": 4925228,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:body:m_frog_13",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/body/M_Frog_13.glb",
+      "fileSize": 5574824,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:body:m_frog_14",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/body/M_Frog_14.glb",
+      "fileSize": 4972948,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:body:m_frog_2",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/body/M_Frog_2.glb",
+      "fileSize": 5119848,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:body:m_frog_3",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/body/M_Frog_3.glb",
+      "fileSize": 4781964,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:body:m_frog_4",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/body/M_Frog_4.glb",
+      "fileSize": 4565880,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:body:m_frog_5",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/body/M_Frog_5.glb",
+      "fileSize": 4074740,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:body:m_frog_6",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/body/M_Frog_6.glb",
+      "fileSize": 5258760,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:body:m_frog_7",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/body/M_Frog_7.glb",
+      "fileSize": 4963688,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:body:m_frog_8",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/body/M_Frog_8.glb",
+      "fileSize": 2679556,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:body:m_frog_9",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/body/M_Frog_9.glb",
+      "fileSize": 4725236,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:face:m_face_01",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/face/M_Face_01.glb",
+      "fileSize": 1024656,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:face:m_face_1",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/face/M_Face_1.glb",
+      "fileSize": 1028588,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:face:m_face_10",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/face/M_Face_10.glb",
+      "fileSize": 1021856,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:face:m_face_11",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/face/M_Face_11.glb",
+      "fileSize": 1022708,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:face:m_face_12",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/face/M_Face_12.glb",
+      "fileSize": 1021932,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:face:m_face_13",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/face/M_Face_13.glb",
+      "fileSize": 1027000,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:face:m_face_14",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/face/M_Face_14.glb",
+      "fileSize": 1022728,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:face:m_face_15",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/face/M_Face_15.glb",
+      "fileSize": 1024276,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:face:m_face_16",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/face/M_Face_16.glb",
+      "fileSize": 1020476,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:face:m_face_17",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/face/M_Face_17.glb",
+      "fileSize": 1024364,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:face:m_face_18",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/face/M_Face_18.glb",
+      "fileSize": 1026400,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:face:m_face_19",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/face/M_Face_19.glb",
+      "fileSize": 1055352,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:face:m_face_2",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/face/M_Face_2.glb",
+      "fileSize": 1027464,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:face:m_face_20",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/face/M_Face_20.glb",
+      "fileSize": 1049404,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:face:m_face_21",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/face/M_Face_21.glb",
+      "fileSize": 1022424,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:face:m_face_22",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/face/M_Face_22.glb",
+      "fileSize": 1013724,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:face:m_face_23",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/face/M_Face_23.glb",
+      "fileSize": 1028780,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:face:m_face_24",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/face/M_Face_24.glb",
+      "fileSize": 1018600,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:face:m_face_25",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/face/M_Face_25.glb",
+      "fileSize": 1024036,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:face:m_face_26",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/face/M_Face_26.glb",
+      "fileSize": 1027136,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:face:m_face_27",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/face/M_Face_27.glb",
+      "fileSize": 1020884,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:face:m_face_28",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/face/M_Face_28.glb",
+      "fileSize": 1131416,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:face:m_face_28b",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/face/M_Face_28b.glb",
+      "fileSize": 1064956,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:face:m_face_3",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/face/M_Face_3.glb",
+      "fileSize": 1022952,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:face:m_face_4",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/face/M_Face_4.glb",
+      "fileSize": 1030056,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:face:m_face_5",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/face/M_Face_5.glb",
+      "fileSize": 1035480,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:face:m_face_6",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/face/M_Face_6.glb",
+      "fileSize": 1028452,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:face:m_face_7",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/face/M_Face_7.glb",
+      "fileSize": 1021744,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:face:m_face_8",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/face/M_Face_8.glb",
+      "fileSize": 1027788,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:frog:face:m_face_9",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/frog/face/M_Face_9.glb",
+      "fileSize": 1030540,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:body:m_monkey_00",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/body/M_Monkey_00.glb",
+      "fileSize": 845068,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:body:m_monkey_1",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/body/M_Monkey_1.glb",
+      "fileSize": 2886056,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:body:m_monkey_10",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/body/M_Monkey_10.glb",
+      "fileSize": 1198140,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:body:m_monkey_11",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/body/M_Monkey_11.glb",
+      "fileSize": 3921808,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:body:m_monkey_12",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/body/M_Monkey_12.glb",
+      "fileSize": 2823652,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:body:m_monkey_13",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/body/M_Monkey_13.glb",
+      "fileSize": 3922996,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:body:m_monkey_14",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/body/M_Monkey_14.glb",
+      "fileSize": 3518896,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:body:m_monkey_2",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/body/M_Monkey_2.glb",
+      "fileSize": 3203572,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:body:m_monkey_3",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/body/M_Monkey_3.glb",
+      "fileSize": 1878820,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:body:m_monkey_4",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/body/M_Monkey_4.glb",
+      "fileSize": 1618188,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:body:m_monkey_5",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/body/M_Monkey_5.glb",
+      "fileSize": 3667576,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:body:m_monkey_6",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/body/M_Monkey_6.glb",
+      "fileSize": 3495452,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:body:m_monkey_7",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/body/M_Monkey_7.glb",
+      "fileSize": 2762348,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:body:m_monkey_8",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/body/M_Monkey_8.glb",
+      "fileSize": 2830000,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:body:m_monkey_9",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/body/M_Monkey_9.glb",
+      "fileSize": 3016952,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:face:m_face_01",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/face/M_Face_01.glb",
+      "fileSize": 845068,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:face:m_face_1",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/face/M_Face_1.glb",
+      "fileSize": 848996,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:face:m_face_10",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/face/M_Face_10.glb",
+      "fileSize": 842268,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:face:m_face_11",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/face/M_Face_11.glb",
+      "fileSize": 843120,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:face:m_face_12",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/face/M_Face_12.glb",
+      "fileSize": 842344,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:face:m_face_13",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/face/M_Face_13.glb",
+      "fileSize": 847412,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:face:m_face_14",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/face/M_Face_14.glb",
+      "fileSize": 843140,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:face:m_face_15",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/face/M_Face_15.glb",
+      "fileSize": 844688,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:face:m_face_16",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/face/M_Face_16.glb",
+      "fileSize": 840888,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:face:m_face_17",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/face/M_Face_17.glb",
+      "fileSize": 844776,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:face:m_face_18",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/face/M_Face_18.glb",
+      "fileSize": 846812,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:face:m_face_19",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/face/M_Face_19.glb",
+      "fileSize": 875764,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:face:m_face_2",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/face/M_Face_2.glb",
+      "fileSize": 847872,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:face:m_face_20",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/face/M_Face_20.glb",
+      "fileSize": 869816,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:face:m_face_21",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/face/M_Face_21.glb",
+      "fileSize": 842836,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:face:m_face_22",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/face/M_Face_22.glb",
+      "fileSize": 834136,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:face:m_face_23",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/face/M_Face_23.glb",
+      "fileSize": 849192,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:face:m_face_24",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/face/M_Face_24.glb",
+      "fileSize": 839012,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:face:m_face_25",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/face/M_Face_25.glb",
+      "fileSize": 844448,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:face:m_face_26",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/face/M_Face_26.glb",
+      "fileSize": 847548,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:face:m_face_27",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/face/M_Face_27.glb",
+      "fileSize": 841296,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:face:m_face_28",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/face/M_Face_28.glb",
+      "fileSize": 951828,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:face:m_face_28b",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/face/M_Face_28b.glb",
+      "fileSize": 885368,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:face:m_face_3",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/face/M_Face_3.glb",
+      "fileSize": 843360,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:face:m_face_4",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/face/M_Face_4.glb",
+      "fileSize": 850464,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:face:m_face_5",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/face/M_Face_5.glb",
+      "fileSize": 855888,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:face:m_face_6",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/face/M_Face_6.glb",
+      "fileSize": 848860,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:face:m_face_7",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/face/M_Face_7.glb",
+      "fileSize": 842152,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:face:m_face_8",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/face/M_Face_8.glb",
+      "fileSize": 848196,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "character-variants:monkey:face:m_face_9",
+      "category": "character-variants",
+      "url": "assets/avatars/yippy/character-variants/monkey/face/M_Face_9.glb",
+      "fileSize": 850948,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "characters:sm_bear",
+      "category": "characters",
+      "url": "assets/avatars/yippy/characters/SM_Bear.glb",
+      "fileSize": 914380,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "characters:sm_bunny",
+      "category": "characters",
+      "url": "assets/avatars/yippy/characters/SM_Bunny.glb",
+      "fileSize": 1118780,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "characters:sm_cat",
+      "category": "characters",
+      "url": "assets/avatars/yippy/characters/SM_Cat.glb",
+      "fileSize": 1033312,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "characters:sm_dog",
+      "category": "characters",
+      "url": "assets/avatars/yippy/characters/SM_Dog.glb",
+      "fileSize": 860244,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "characters:sm_frog",
+      "category": "characters",
+      "url": "assets/avatars/yippy/characters/SM_Frog.glb",
+      "fileSize": 1024656,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    },
+    {
+      "id": "characters:sm_monkey",
+      "category": "characters",
+      "url": "assets/avatars/yippy/characters/SM_Monkey.glb",
+      "fileSize": 845068,
+      "scenes": 1,
+      "nodes": 45,
+      "meshes": 1,
+      "skins": 1,
+      "materials": 2,
+      "textures": 2,
+      "animations": [],
+      "skeletonNodes": [
+        "head_socket",
+        "hand_socket_l",
+        "hand_socket_r",
+        "body_socket"
+      ]
+    }
+  ]
+}
