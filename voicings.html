@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Left Hand Voicings</title>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Archivo:wght@400;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #000;
+    --paper: #fff;
+    --yellow: #FFF200;
+    --grey: #6b6b6b;
+    --rule: #dcdcdc;
+    --focus: #0057ff;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; background: var(--paper); color: var(--ink); font-family: 'Archivo', Helvetica, Arial, sans-serif; }
+  body { padding: 28px 28px 48px; scroll-padding-top: 12px; }
+
+  h1 {
+    font-family: 'Anton', Impact, 'Arial Narrow', sans-serif;
+    font-weight: 400;
+    font-size: clamp(44px, 9vw, 96px);
+    line-height: .88;
+    letter-spacing: -.01em;
+    margin: 0 0 6px;
+    text-transform: uppercase;
+  }
+  .kicker {
+    font-family: 'Anton', Impact, sans-serif;
+    letter-spacing: .48em;
+    font-size: 14px;
+    margin: 0 0 4px 2px;
+    text-transform: uppercase;
+  }
+  .band { height: 12px; background: var(--yellow); margin: 18px 0 26px; }
+
+  .layout { max-width: 620px; }
+
+  /* controls */
+  .controls { display: flex; gap: 8px; margin-bottom: 8px; flex-wrap: wrap; }
+  .dd { position: relative; }
+  .dd-btn {
+    touch-action: manipulation; user-select: none;
+    appearance: none; border: 0; background: var(--paper); cursor: pointer; color: var(--ink);
+    font-family: 'Anton', Impact, 'Arial Narrow', sans-serif; font-size: clamp(36px, 6vw, 64px); line-height: 1;
+    padding: 6px 14px 6px 8px; display: flex; align-items: center; gap: 14px;
+  }
+  .dd-btn::after {
+    content: ''; width: 0; height: 0; border-left: 11px solid transparent; border-right: 11px solid transparent;
+    border-top: 14px solid var(--ink); transition: transform .12s;
+  }
+  .dd-btn:hover, .dd[aria-expanded="true"] .dd-btn { background: var(--ink); color: var(--paper); }
+  .dd-btn:hover::after, .dd[aria-expanded="true"] .dd-btn::after { border-top-color: var(--yellow); }
+  .dd[aria-expanded="true"] .dd-btn::after { transform: rotate(180deg); }
+  .dd-list {
+    position: absolute; top: 100%; left: 0; z-index: 10; margin: 0; padding: 0; list-style: none;
+    background: var(--paper); border: 4px solid var(--ink); min-width: 100%;
+    max-width: calc(100vw - 56px); max-height: calc(100vh - 110px); overflow: auto; -webkit-overflow-scrolling: touch;
+    display: none; grid-template-columns: repeat(var(--cols, 1), auto); gap: 2px; background-color: var(--yellow);
+  }
+  .dd[aria-expanded="true"] .dd-list { display: grid; }
+  .dd-list li {
+    font-family: 'Anton', Impact, sans-serif; font-size: 28px; line-height: 1; padding: 20px 26px 18px 22px; cursor: pointer;
+    white-space: nowrap; background: var(--paper); text-align: center; min-width: 64px; touch-action: manipulation; user-select: none;
+  }
+  .dd-list li:hover, .dd-list li.focus { background: var(--yellow); }
+  .dd-list li[aria-selected="true"] { background: var(--ink); color: var(--paper); }
+  .dd-list li[aria-selected="true"].focus { outline: 3px solid var(--yellow); outline-offset: -3px; }
+  .dd-btn:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+  @media (prefers-reduced-motion: reduce) { .dd-btn::after { transition: none; } }
+
+  button:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+
+  /* results */
+  .voicing { padding: 16px 0 24px; border-top: 6px solid var(--yellow); }
+  .voicing + .voicing { margin-top: 6px; }
+  .vhead { display: flex; align-items: flex-end; justify-content: space-between; gap: 16px; margin-bottom: 14px; }
+  .notes { font-family: 'Anton', Impact, sans-serif; font-size: clamp(30px, 8.5vw, 60px); line-height: 1; letter-spacing: .02em; white-space: nowrap; flex: 1 1 auto; min-width: 0; }
+  .vmeta { text-align: right; flex: 0 0 auto; }
+  .formula { font-family: 'Anton', Impact, sans-serif; font-size: 26px; line-height: 1; letter-spacing: .04em; color: var(--grey); white-space: nowrap; }
+  .vsub { font-size: 12px; color: var(--grey); font-weight: 600; margin-top: 4px; white-space: nowrap; }
+  .acc { font-family: 'Archivo', 'Segoe UI Symbol', 'Noto Music', sans-serif; font-weight: 600; font-size: .58em; vertical-align: .38em; margin: 0 -.06em 0 -.14em; letter-spacing: 0; }
+  svg.kbd { width: 100%; height: auto; display: block; }
+  .kbd .wk { fill: #fff; stroke: #000; stroke-width: 1.5; }
+  .kbd .bk { fill: #111; stroke: #000; }
+  .kbd .wk.on { fill: var(--yellow); }
+  .kbd .bk.on { fill: var(--yellow); stroke: #000; }
+  .kbd text { font-family: 'Archivo', sans-serif; font-weight: 600; font-size: 12px; text-anchor: middle; }
+  .kbd text.c { font-size: 10px; fill: #999; font-weight: 400; }
+
+</style>
+</head>
+<body>
+
+<p class="kicker">Jazz piano</p>
+<h1>Left hand<br>voicings</h1>
+<div class="band"></div>
+
+<div class="layout">
+  <div class="controls">
+    <div class="dd" id="roots" aria-expanded="false"></div>
+    <div class="dd" id="types" aria-expanded="false"></div>
+  </div>
+  <div id="out"></div>
+</div>
+
+<script>
+// ---------- theory ----------
+const LETTERS = ['C','D','E','F','G','A','B'];
+const NAT_PC  = { C:0, D:2, E:4, F:5, G:7, A:9, B:11 };
+const ACC_VAL = { '':0, '#':1, 'b':-1, 'x':2, 'bb':-2 };
+
+const ROOTS = ['C','Db','D','Eb','E','F','F#','Gb','G','Ab','A','Bb','B','C#'];
+
+// degree: [scale letter steps above root, semitones above root]
+const DEG = {
+  '1':  [0, 0],
+  '3':  [2, 4],  'b3': [2, 3],
+  '5':  [4, 7],  'b5': [4, 6],
+  '7':  [6, 11], 'b7': [6, 10], 'bb7': [6, 9],
+  '9':  [1, 14], 'b9': [1, 13], '#9': [1, 15],
+  '13': [5, 21], 'b13': [5, 20],
+};
+
+// Each type: display label, PDF "formula" (as printed), and the actual degrees for type A (3rd on bottom) and B (7th on bottom).
+const TYPES = [
+  { id:'maj7',  label:'Major 7',  sym:'maj7', pdf:'3-7-5-9',    A:['3','5','7','9'],      B:['7','9','3','5'],      show:{A:'3-5-7-9',    B:'7-9-3-5'} },
+  { id:'m7',    label:'Minor 7',  sym:'m7',   pdf:'3-7-5-9',    A:['b3','5','b7','9'],    B:['b7','9','b3','5'],    show:{A:'3-5-7-9',    B:'7-9-3-5'} },
+  { id:'7',     label:'Dom 7',    sym:'7',    pdf:'3-7-9-13',   A:['3','13','b7','9'],    B:['b7','9','3','13'],    show:{A:'3-13-7-9',   B:'7-9-3-13'} },
+  { id:'m7b5',  label:'ø / m7♭5', sym:'ø',    pdf:'3-7-1-5',    A:['b3','b5','b7','1'],   B:['b7','1','b3','b5'],   show:{A:'3-5-7-1',    B:'7-1-3-5'} },
+  { id:'7alt',  label:'7alt',     sym:'7alt', pdf:'3-7-#9-♭13', A:['3','b13','b7','#9'],  B:['b7','#9','3','b13'],  show:{A:'3-♭13-7-#9', B:'7-#9-3-♭13'} },
+  { id:'7b9',   label:'7♭9',      sym:'7♭9',  pdf:'3-7-5-♭9',   A:['3','5','b7','b9'],    B:['b7','b9','3','5'],    show:{A:'3-5-7-♭9',   B:'7-♭9-3-5'} },
+  { id:'dim7',  label:'°7',       sym:'°7',   pdf:'3-7-1-5',    A:['b3','b5','bb7','1'],  B:['bb7','1','b3','b5'],  show:{A:'3-5-7-1',    B:'7-1-3-5'} },
+];
+
+function parseRoot(r) { return { letter: r[0], acc: r.slice(1) }; }
+
+// Spell a degree above a root: returns { name, pc }
+function spell(root, deg) {
+  const { letter, acc } = parseRoot(root);
+  const [steps, semis] = DEG[deg];
+  const li = LETTERS.indexOf(letter);
+  const newLetter = LETTERS[(li + steps) % 7];
+  const rootPc = NAT_PC[letter] + ACC_VAL[acc];
+  const targetPc = ((rootPc + semis) % 12 + 12) % 12;
+  const natPc = NAT_PC[newLetter];
+  let diff = ((targetPc - natPc) % 12 + 12) % 12;
+  if (diff > 6) diff -= 12;
+  const accs = { 0:'', 1:'#', 2:'x', '-1':'b', '-2':'bb' }[diff] ?? '?';
+  return { name: newLetter + accs, pc: targetPc };
+}
+
+// Build voicing: bottom note placed in octave 3 (MIDI 48–59), each subsequent note the nearest above.
+function buildVoicing(root, degs) {
+  const spelled = degs.map(d => spell(root, d));
+  const notes = [];
+  let midi = 48 + spelled[0].pc;
+  notes.push({ ...spelled[0], midi });
+  for (let i = 1; i < spelled.length; i++) {
+    const prev = notes[i-1].midi;
+    let m = prev + ((spelled[i].pc - (prev % 12) + 12) % 12);
+    if (m === prev) m += 12;
+    notes.push({ ...spelled[i], midi: m });
+  }
+  return notes;
+}
+
+const pretty = s => s.replace(/bb/g,'𝄫').replace(/b/g,'♭').replace(/#/g,'♯').replace(/x/g,'𝄪');
+// accidental glyphs fall back to a different font than Anton; wrap them so their metrics can be tamed
+const prettyHTML = s => pretty(s).replace(/([♭♯𝄫𝄪])/g, '<span class="acc">$1</span>');
+
+// ---------- keyboard SVG ----------
+const isBlack = m => [1,3,6,8,10].includes(m % 12);
+const WHITE_OFFSET = { 0:0, 2:1, 4:2, 5:3, 7:4, 9:5, 11:6 }; // white index within octave
+
+function whiteIndex(m) { // absolute white-key index
+  const oct = Math.floor(m / 12);
+  return oct * 7 + WHITE_OFFSET[m % 12];
+}
+
+function keyboardSVG(notes) {
+  const active = new Map(notes.map(n => [n.midi, n.name]));
+  let lo = Math.min(...notes.map(n => n.midi)) - 3;
+  let hi = Math.max(...notes.map(n => n.midi)) + 3;
+  while (isBlack(lo)) lo--;
+  while (isBlack(hi)) hi++;
+
+  const W = 34, H = 120, BW = 20, BH = 74;
+  const startWI = whiteIndex(lo);
+  const nWhite = whiteIndex(hi) - startWI + 1;
+  const width = nWhite * W;
+  let whites = '', blacks = '', labels = '';
+
+  for (let m = lo; m <= hi; m++) {
+    if (!isBlack(m)) {
+      const x = (whiteIndex(m) - startWI) * W;
+      const on = active.has(m);
+      whites += `<rect class="wk${on?' on':''}" x="${x}" y="0" width="${W}" height="${H}" rx="2"/>`;
+      if (on) labels += `<text x="${x + W/2}" y="${H - 10}">${pretty(active.get(m))}</text>`;
+    }
+  }
+  for (let m = lo; m <= hi; m++) {
+    if (isBlack(m)) {
+      const x = (whiteIndex(m + 1) - startWI) * W - BW/2;
+      const on = active.has(m);
+      blacks += `<rect class="bk${on?' on':''}" x="${x}" y="0" width="${BW}" height="${BH}" rx="2"/>`;
+      if (on) labels += `<text x="${x + BW/2}" y="${BH - 10}" fill="#000">${pretty(active.get(m))}</text>`;
+    }
+  }
+  return `<svg class="kbd" viewBox="-1 -1 ${width + 2} ${H + 2}" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Keyboard showing ${notes.map(n=>pretty(n.name)).join(' ')}">${whites}${blacks}${labels}</svg>`;
+}
+
+// ---------- UI ----------
+let root = 'C', typeId = 'maj7';
+
+// custom dropdown (rendered once; state changed via DOM, never rebuilt on click)
+function makeDropdown(el, items, cols, getValue, setValue, label) {
+  let focusIdx = -1;
+  el.style.setProperty('--cols', cols);
+  el.innerHTML = `
+    <button class="dd-btn" type="button" aria-haspopup="listbox" aria-label="${label}"><span class="dd-txt"></span></button>
+    <ul class="dd-list" role="listbox" aria-label="${label}">
+      ${items.map((i, idx) => `<li role="option" data-idx="${idx}">${i.text}</li>`).join('')}
+    </ul>`;
+  const btn = el.querySelector('.dd-btn');
+  const txt = btn.querySelector('.dd-txt');
+  const lis = [...el.querySelectorAll('li')];
+  function sync() {
+    const v = getValue();
+    txt.innerHTML = items.find(i => i.value === v).text;
+    lis.forEach((li, idx) => {
+      li.setAttribute('aria-selected', items[idx].value === v);
+      li.classList.toggle('focus', idx === focusIdx);
+    });
+  }
+  const isOpen = () => el.getAttribute('aria-expanded') === 'true';
+  function open() {
+    closeAll(); focusIdx = items.findIndex(i => i.value === getValue()); el.setAttribute('aria-expanded', 'true'); sync();
+    const list = el.querySelector('.dd-list');
+    const bottom = list.getBoundingClientRect().bottom;
+    if (bottom > window.innerHeight) el.scrollIntoView({ block: 'start', behavior: 'smooth' });
+  }
+  function close() { el.setAttribute('aria-expanded', 'false'); focusIdx = -1; sync(); }
+  function choose(idx) { setValue(items[idx].value); close(); btn.focus(); }
+  btn.addEventListener('click', () => isOpen() ? close() : open());
+  lis.forEach(li => li.addEventListener('click', () => choose(+li.dataset.idx)));
+  el.addEventListener('keydown', e => {
+    if (!isOpen()) {
+      if (['ArrowDown', 'ArrowUp'].includes(e.key)) { e.preventDefault(); open(); }
+      return;
+    }
+    const step = { ArrowDown: cols, ArrowUp: -cols, ArrowRight: 1, ArrowLeft: -1 }[e.key];
+    if (step !== undefined) { e.preventDefault(); focusIdx = Math.max(0, Math.min(items.length - 1, focusIdx + step)); sync(); }
+    else if (e.key === 'Escape') { e.preventDefault(); close(); }
+    else if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); if (focusIdx >= 0) choose(focusIdx); }
+    else if (e.key === 'Tab') close();
+  });
+  el._close = close; el._sync = sync;
+  sync();
+}
+function closeAll() { document.querySelectorAll('.dd[aria-expanded="true"]').forEach(d => d._close()); }
+document.addEventListener('pointerdown', e => { if (!e.target.closest('.dd')) closeAll(); });
+
+// hash state: #Root/type  e.g. #F%23/7alt
+function readHash() {
+  const [r, t] = decodeURIComponent(location.hash.slice(1)).split('/');
+  if (ROOTS.includes(r)) root = r;
+  if (TYPES.some(x => x.id === t)) typeId = t;
+}
+function writeHash() {
+  const h = '#' + encodeURIComponent(root) + '/' + typeId;
+  if (location.hash === h) return;
+  try { history.replaceState(null, '', h); } catch (e) { try { location.hash = h; } catch (_) {} }
+}
+
+function renderOut() {
+  const t = TYPES.find(x => x.id === typeId);
+  const A = buildVoicing(root, t.A);
+  const B = buildVoicing(root, t.B);
+  const block = (notes, formula, bottom) => `
+    <section class="voicing">
+      <div class="vhead">
+        <div class="notes">${notes.map(n => prettyHTML(n.name)).join('-')}</div>
+        <div class="vmeta">
+          <div class="formula">${formula}</div>
+          <div class="vsub">${bottom} at the bottom</div>
+        </div>
+      </div>
+      ${keyboardSVG(notes)}
+    </section>`;
+  document.getElementById('out').innerHTML = `
+    ${block(A, t.show.A, 'Third')}
+    ${block(B, t.show.B, 'Seventh')}`;
+  writeHash();
+}
+
+readHash();
+const ddRoot = document.getElementById('roots'), ddType = document.getElementById('types');
+makeDropdown(ddRoot, ROOTS.map(r => ({ value: r, text: prettyHTML(r) })), 4, () => root, v => { root = v; renderOut(); }, 'Root');
+makeDropdown(ddType, TYPES.map(t => ({ value: t.id, text: t.label.replace(/([♭♯])/g, '<span class="acc">$1</span>') })), 1, () => typeId, v => { typeId = v; renderOut(); }, 'Chord type');
+window.addEventListener('hashchange', () => { readHash(); ddRoot._sync(); ddType._sync(); renderOut(); });
+renderOut();
+</script>
+</body>
+</html>
