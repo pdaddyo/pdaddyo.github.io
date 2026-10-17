@@ -1,0 +1,306 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Almost Out of Shot</title>
+<meta name="description" content="Every night, on cue, she smiles into the camera, sells the odds, and promises you can always take a break. Tonight, someone holds her to it.">
+<meta property="og:title" content="Almost Out of Shot">
+<meta property="og:description" content="Every night, on cue, she smiles into the camera, sells the odds, and promises you can always take a break. Tonight, someone holds her to it.">
+<meta name="theme-color" content="#faf8f4" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#121212" media="(prefers-color-scheme: dark)">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #faf8f4;
+    --text: #1d1b18;
+    --muted: #6f6a62;
+    --rule: #e4dfd6;
+    --accent: #b3261e;
+    --bubble: #efebe4;
+    --serif: "Literata", Georgia, "Times New Roman", serif;
+    --mono: "JetBrains Mono", ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #121212;
+      --text: #e8e4dc;
+      --muted: #9a948a;
+      --rule: #2b2925;
+      --accent: #ef6b5f;
+      --bubble: #1f1d1a;
+    }
+  }
+
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--serif);
+    font-size: 1.1875rem;          /* 19px */
+    line-height: 1.7;
+    font-optical-sizing: auto;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  main {
+    max-width: 34rem;
+    margin: 0 auto;
+    padding:
+      max(2.5rem, env(safe-area-inset-top))
+      max(1.375rem, env(safe-area-inset-right))
+      max(4rem, env(safe-area-inset-bottom))
+      max(1.375rem, env(safe-area-inset-left));
+  }
+
+  /* Brief / metadata */
+  .brief {
+    font-family: var(--mono);
+    font-size: 0.72rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--muted);
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 0.25rem 1rem;
+    margin: 0;
+    padding-bottom: 1.25rem;
+    border-bottom: 1px solid var(--rule);
+  }
+  .brief dt { font-weight: 500; }
+  .brief dd { margin: 0; text-transform: none; letter-spacing: 0; }
+
+  /* Title block */
+  header.title {
+    text-align: center;
+    padding: 4.5rem 0 4rem;
+    border-bottom: 1px solid var(--rule);
+    margin-bottom: 2.75rem;
+  }
+  h1 {
+    font-weight: 600;
+    font-size: clamp(2.1rem, 9vw, 2.9rem);
+    line-height: 1.1;
+    letter-spacing: -0.015em;
+    margin: 0 0 1.75rem;
+    text-wrap: balance;
+  }
+  .logline {
+    font-style: italic;
+    color: var(--muted);
+    font-size: 1.05rem;
+    line-height: 1.6;
+    max-width: 24rem;
+    margin: 0 auto;
+    text-wrap: balance;
+  }
+  .logline strong {
+    display: block;
+    margin-top: 0.9rem;
+    font-weight: 600;
+    font-style: normal;
+    color: var(--text);
+  }
+
+  /* Story */
+  article p { margin: 0 0 1.15em; hanging-punctuation: first; }
+
+  .time {
+    font-family: var(--mono);
+    font-size: 0.8rem;
+    font-weight: 500;
+    letter-spacing: 0.08em;
+    color: var(--accent);
+    margin: 2.5rem 0 0.9rem;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+  }
+  .time::after {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: var(--rule);
+  }
+
+  /* Texts from him */
+  .texts {
+    margin: 1.4rem 0 1.6rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.35rem;
+  }
+  .texts span {
+    font-family: var(--mono);
+    font-size: 0.88rem;
+    line-height: 1.45;
+    background: var(--bubble);
+    padding: 0.5rem 0.85rem;
+    border-radius: 1.1rem 1.1rem 1.1rem 0.3rem;
+    max-width: 85%;
+  }
+
+  /* Screenshots / on-screen text */
+  .screen {
+    margin: 0.4rem 0 1.4rem;
+    padding: 0.85rem 1rem;
+    border-left: 3px solid var(--accent);
+    background: var(--bubble);
+    border-radius: 0 0.5rem 0.5rem 0;
+    font-style: italic;
+    line-height: 1.55;
+  }
+  .screen p { margin: 0; }
+  .screen p + p { margin-top: 0.15rem; }
+  .lead-in { margin-bottom: 0.4rem !important; }
+
+  /* Ending: the post */
+  .post {
+    margin-top: 1rem;
+    border: 1px solid var(--rule);
+    border-radius: 0.9rem;
+    padding: 1.25rem 1.1rem 1rem;
+  }
+  .post .result {
+    font-weight: 600;
+    font-style: italic;
+    font-size: 1.5rem;
+    letter-spacing: 0.01em;
+    margin: 0 0 0.75rem;
+  }
+  .post .meta {
+    font-family: var(--mono);
+    font-size: 0.75rem;
+    color: var(--muted);
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    padding-bottom: 0.85rem;
+    border-bottom: 1px solid var(--rule);
+    margin-bottom: 0.4rem;
+  }
+  .post ul { list-style: none; margin: 0; padding: 0; }
+  .post li {
+    font-size: 0.98rem;
+    font-style: italic;
+    padding: 0.55rem 0;
+  }
+  .post li + li { border-top: 1px solid var(--rule); }
+
+  .end {
+    text-align: center;
+    color: var(--muted);
+    letter-spacing: 0.5em;
+    margin-top: 3rem;
+    font-size: 0.9rem;
+  }
+
+  @media (min-width: 40rem) {
+    body { font-size: 1.25rem; }
+    header.title { padding: 6rem 0 5rem; }
+  }
+</style>
+</head>
+<body>
+<main>
+
+  <dl class="brief">
+    <dt>Length</dt><dd>400 words</dd>
+    <dt>Group</dt><dd>6</dd>
+    <dt>Scare</dt><dd>An endorsement</dd>
+    <dt>Action</dt><dd>Taking a break</dd>
+    <dt>Character</dt><dd>A university athlete</dd>
+  </dl>
+
+  <header class="title">
+    <h1>Almost Out of Shot</h1>
+    <p class="logline">
+      Every night, on cue, she smiles into the camera, sells the odds, and promises you can always take a break.
+      <strong>Tonight, someone holds her to it.</strong>
+    </p>
+  </header>
+
+  <article>
+    <p>&ldquo;Back yourself,&rdquo; Robyn signs off, every night at nine, smiling into the ring light like she&rsquo;s just scored. &ldquo;And remember, you can always take a break.&rdquo;</p>
+
+    <p>Twelve seconds from her bed in halls; twelve hundred quid a month from a betting app. The contract wants the rest of her: porridge, physio, matches, the view from her kitchen window. Authentic. Daily.</p>
+
+    <p>Six weeks ago tonight, a gambler sent her a screenshot: &lsquo;<em>TAKE A BREAK ACTIVATED (6&nbsp;WEEKS)</em>&rsquo;. Her ad found him anyway. Every morning since, he&rsquo;s sent last night&rsquo;s clip, paused mid-smile.</p>
+
+    <div class="texts">
+      <span>you said i could take a break</span>
+      <span>you never let me</span>
+    </div>
+
+    <p>She&rsquo;s blocked him eleven times. Police gave her a reference number.</p>
+
+    <div class="time">14:02</div>
+    <p>&ldquo;Text neck,&rdquo; diagnoses the uni physio, thumbing the knot under her ear. &ldquo;Off the phone till Wednesday, or off the team sheet.&rdquo;</p>
+    <p>She holds the button until the screen dies.</p>
+
+    <div class="time">20:50</div>
+    <p>Her thumb finds the button before she decides.</p>
+
+    <p class="lead-in">His screenshot:</p>
+    <div class="screen">
+      <p>WELCOME BACK! Your break has ended.</p>
+      <p>Recommended for you: Will Robyn post tonight?</p>
+      <p>Quiet for six hours. NO is favourite.</p>
+    </div>
+
+    <p class="lead-in">Her own smile, captioned:</p>
+    <div class="screen">
+      <p>BIG BACKER: &pound;35,000 on YES!</p>
+    </div>
+
+    <div class="texts">
+      <span>i backed you</span>
+      <span>im backing you robyn</span>
+    </div>
+
+    <div class="time">20:54</div>
+    <p>A photo: the kitchen window from outside. She&rsquo;s in it, on her phone.</p>
+    <p>Robyn kills the light, drops below the sill, dials 999, whispering the postcode twice.</p>
+
+    <div class="time">20:56</div>
+    <p>The fire door bangs.</p>
+    <p>A photo: her bed, ring light on, the app&rsquo;s hoodie laid out flat.</p>
+
+    <div class="time">20:58</div>
+    <p>Robyn&rsquo;s own voice approaches. &ldquo;Back yourself.&rdquo; Rewinds. Again.</p>
+    <p>The kitchen door opens.</p>
+    <p>He&rsquo;s somebody&rsquo;s dad, in her club scarf. She tries to stand. Ninety minutes every Wednesday, and her legs won&rsquo;t give her five yards.</p>
+    <p>He holds her phone to her mouth.</p>
+    <p>&ldquo;Sorry!&rdquo; she tells 999, in her nine o&rsquo;clock voice. &ldquo;Pocket dial.&rdquo;</p>
+    <p>He walks her to bed, zips her into the hoodie, sleeves empty, and clicks her phone into the ring light. He&rsquo;s watched all 197. He knows the angle.</p>
+    <p>&ldquo;You had me worried.&rdquo; His hand settles on her neck, almost out of shot.</p>
+
+    <div class="time">21:00</div>
+    <p>Her face does it on its own.</p>
+    <p>&ldquo;Back yourself,&rdquo; she signs off. He mouths along. &ldquo;And remember,&rdquo;</p>
+    <p>His thumb finds the knot. His hand closes.</p>
+    <p>&ldquo;You can always take a break.&rdquo;</p>
+    <p>Twelve seconds. Thirteen. Her smile holds.</p>
+    <p>He doesn&rsquo;t let go.</p>
+
+    <div class="time">21:01</div>
+    <div class="post">
+      <p class="result">YES WINS!</p>
+      <div class="meta"><span>Paid Promotion</span><span>14,212 likes</span></div>
+      <ul>
+        <li>you look tired robs x</li>
+        <li>whose hand is that</li>
+      </ul>
+    </div>
+  </article>
+
+  <p class="end" aria-hidden="true">&middot; &middot; &middot;</p>
+</main>
+</body>
+</html>
